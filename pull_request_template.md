@@ -20,6 +20,7 @@
 <!-- Describe the tests you ran and how to reproduce them -->
 - [ ] I have tested these changes locally
 - [ ] I have tested these changes via a browser
+- [ ] I have run the test suite locally and it passed
 
 ## Checklist
 - [ ] I have performed a self-review of my own code
